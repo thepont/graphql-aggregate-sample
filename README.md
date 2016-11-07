@@ -1,9 +1,9 @@
 
 to run the run script run the follow command at the command line 
 
-```#npm run run```
+```npm run run```
 
-this should start a webserver on port 3121, connecting to this port should give you a Graph_i_QL interface allowing accesss to the people collection via the graphql-aggregation methods
+this should start a webserver on port 3121, connecting to this port should give you a GraphiQL interface allowing accesss to the people collection via the graphql-aggregation methods
 
 ## Example Query:
 
