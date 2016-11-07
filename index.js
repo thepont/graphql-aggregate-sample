@@ -39,6 +39,9 @@ var PersonType = new GraphQLObjectType({
                     type: GraphQLString,
                     resolve: (obj) => obj.name.last 
                 },
+                eyeColor : {
+                    type: GraphQLString
+                },
                 age : {
                     type: GraphQLInt
                 },
