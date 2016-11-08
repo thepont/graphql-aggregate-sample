@@ -7,6 +7,10 @@ this should start a webserver on port 3121, connecting to this port should give 
 
 ## Example Query:
 
+The following query proves that people with _blue eyes_ and an age less then _40_ and also and an age less the _29_ on average are younger then their green and brown eyed counterparts. 
+
+The searching for the elixer of youth we can therefor turn the to blue eyed population.
+
 ```graphql
 {
   people {
