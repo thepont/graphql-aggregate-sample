@@ -12,7 +12,8 @@
   "dependencies": {
     "express": "^4.14.0",
     "express-graphql": "^0.5.4",
-    "graphql-aggregate": "0.0.3"
+    "graphql-aggregate": "0.0.3",
+    "optics-agent": "^1.0.2"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
